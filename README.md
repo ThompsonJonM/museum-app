@@ -1,12 +1,20 @@
 # Pigmatic
 
 # What is Pigmatic?
-- Pigmatic is a museum collections database system which takes user input for accessioned and deaccessioned items and places the input into online registries.
+- Pigmatic is a simplified museum collections database system which takes user input for accessioned and deaccessioned items and places the input into online registries.
+
+# How did Pigmatic Start?
+- Pigmatic is being created in response to real-life experiences with rudimentary collections database systems. 
+- The goal of Pigmatic is to provide small non-profit institutions with the ability to store and access their collections data in a more sophisticated manner than an Excel sheet.
 
 # Why use Pigmatic?
-- Affordability, simplicity, and accessibility. 
-    + The cost of accession and deaccession registries and pigma pens can cost non-profit organizations thousands of dollars per year (depending on the size of the institution). 
-    + Pigmatic is being created to provide collections managers a simple user interface for registering all of their collection's accessioned and deaccessioned items without the need for acid-free registries and special writing tools.
+- Affordability
+    + Pigmatic is being built with the goal of providing non-profit organiztions with a sophisticated collections management system.
+    + Acid-free registries and pigma pens can end up costing non-profit organizations thousands of dollars per year.
+- Simplicity
+    + Pigmatic offers a fast and efficient method for adding, modifying, and removing a collection's accession and deaccession information.
+- Accessibility
+    + Pigmatic uses a cloud-based database to store collections information. This allows the information to be accessed anywhere!
 
 # Setup
 - Work in progress.
